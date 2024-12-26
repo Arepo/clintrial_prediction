@@ -1,6 +1,6 @@
-# Test
+# Viewing stock price graphs
 
-# Viewing stock price graphs
+# 
 
 These should be visible via the browser from the [stock_histories notebook](https://github.com/Arepo/clintrial_prediction/blob/main/stock_histories.ipynb) (they start about halfway down the page). 
 
